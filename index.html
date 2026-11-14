@@ -1,0 +1,318 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Abdallah Ahmad Omar — Senior Mobile Developer (iOS, Flutter). Production apps for iPhone, iPad, and cross-platform Flutter."
+    />
+    <meta name="author" content="Abdallah Ahmad Omar" />
+    <title>Abdallah Ahmad Omar | Senior Mobile Developer</title>
+
+    <link rel="icon" href="img/Icons/Marn.png" type="image/png" />
+    <link rel="apple-touch-icon" href="img/Icons/Marn.png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Figtree:wght@400;500;600;700&family=Syne:wght@600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="vendor/fontawesome-free/css/all.min.css"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link href="css/site.css" rel="stylesheet" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-nav" id="siteNav">
+      <div class="container nav-inner">
+        <a class="brand" href="#top">
+          AO
+          <span class="brand-mark" aria-hidden="true"></span>
+        </a>
+
+        <nav aria-label="Main">
+          <ul class="nav-links">
+            <li><a href="#about">About</a></li>
+            <li><a href="#work">Work</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </nav>
+
+        <a class="nav-cta" href="#contact">Let’s talk ↗</a>
+
+        <button
+          class="nav-toggle"
+          id="navToggle"
+          type="button"
+          aria-label="Open menu"
+          aria-expanded="false"
+        >
+          <span></span>
+        </button>
+      </div>
+      <div class="container mobile-nav" id="mobileNav">
+        <a href="#about">About</a>
+        <a href="#work">Work</a>
+        <a href="#contact">Contact</a>
+      </div>
+    </header>
+
+    <main id="main">
+      <section class="hero" id="top">
+        <div class="container hero-grid">
+          <div class="reveal is-visible">
+            <div class="eyebrow">Senior Mobile Developer</div>
+            <h1>Abdallah <span>Ahmad</span> Omar</h1>
+            <p class="hero-title">
+              Senior Mobile Developer
+              <em>(iOS, Flutter)</em>
+            </p>
+            <p class="hero-lead">
+              I ship production apps for iPhone and iPad — native Swift and
+              cross-platform Flutter — with clean architecture, polished UI, and
+              App Store–ready delivery.
+            </p>
+            <div class="hero-actions">
+              <a class="btn btn-primary" href="#work">Explore my work ↓</a>
+              <a class="btn btn-ghost" href="#contact">Get in touch</a>
+              <a class="btn btn-link" href="#about">About me ↗</a>
+            </div>
+            <p class="hero-meta">
+              10th of Ramadan, Al-Sharqia · Egypt · iOS &amp; Flutter
+            </p>
+          </div>
+
+          <div class="hero-visual reveal is-visible">
+            <div class="hero-ring" aria-hidden="true"></div>
+            <div class="hero-portrait">
+              <img
+                src="img/profile-image.JPG"
+                alt="Portrait of Abdallah Ahmad Omar"
+              />
+            </div>
+            <div class="hero-chip">
+              <strong>Built for the store</strong>
+              <span>Architecture · UI · Shipping</span>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="about">
+        <div class="container">
+          <div class="section-head reveal">
+            <div>
+              <p class="section-kicker">01 / About</p>
+              <h2>Ship native. Scale with <span>Flutter</span>.</h2>
+            </div>
+            <p>
+              Ten years of mobile production work — from Objective-C beginnings
+              to Swift, SwiftUI, and Flutter — now accelerated with AI tooling.
+            </p>
+          </div>
+
+          <div class="about-grid">
+            <div class="about-copy reveal">
+              <p>
+                Senior Mobile Developer with over 10 years of experience building
+                and shipping production apps for iPhone and iPad. I started in
+                native iOS with Objective-C and Xcode, then grew deep expertise
+                in Swift across UIKit and SwiftUI — delivering App Store
+                releases end to end, from architecture and polished UI to
+                performance, quality, and store submission.
+              </p>
+              <p>
+                Alongside native work, I have more than 5 years of hands-on
+                Flutter development, building cross-platform applications that
+                stay maintainable, responsive, and aligned with platform
+                expectations on both iOS and Android.
+              </p>
+              <p>
+                I care about clean architecture, efficient code, and interfaces
+                that feel clear and engaging. I keep pace with the mobile stack
+                as it evolves, and I regularly challenge myself to ship better
+                solutions with less friction.
+              </p>
+              <p>
+                Today I work with AI agents and tools such as Cursor and Claude
+                to move faster in design, implementation, and debugging —
+                without compromising code quality or product standards.
+              </p>
+            </div>
+
+            <div class="stat-row reveal">
+              <div class="stat">
+                <strong>10+</strong>
+                <span>Years shipping mobile apps</span>
+              </div>
+              <div class="stat">
+                <strong>5+</strong>
+                <span>Years of Flutter delivery</span>
+              </div>
+              <div class="stat">
+                <strong>20+</strong>
+                <span>Featured App Store products</span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="section" id="work">
+        <div class="container">
+          <div class="section-head reveal">
+            <div>
+              <p class="section-kicker">02 / Selected work</p>
+              <h2>Apps built for everyday <span>impact</span>.</h2>
+            </div>
+            <p>
+              Islamic learning, education, volunteering, and flexible work —
+              each product with its App Store presence, icon, and screens.
+            </p>
+          </div>
+
+          <div class="work-toolbar reveal" id="workFilters"></div>
+          <div class="project-grid" id="projectGrid"></div>
+        </div>
+      </section>
+
+      <section class="section" id="contact">
+        <div class="container">
+          <div class="section-head reveal">
+            <div>
+              <p class="section-kicker">03 / Contact</p>
+              <h2>Hiring a senior mobile developer? <span>Let’s talk.</span></h2>
+            </div>
+            <p>
+              Open to conversations about Flutter and iOS product work —
+              architecture, delivery, and polished store releases.
+            </p>
+          </div>
+
+          <div class="contact-panel reveal">
+            <form class="contact-form" id="contactForm" novalidate>
+              <div class="field">
+                <label for="name">Name</label>
+                <input id="name" name="name" type="text" placeholder="Your name" required />
+              </div>
+              <div class="field">
+                <label for="email">Email</label>
+                <input
+                  id="email"
+                  name="email"
+                  type="email"
+                  placeholder="you@company.com"
+                  required
+                />
+              </div>
+              <div class="field">
+                <label for="phone">Phone</label>
+                <input id="phone" name="phone" type="tel" placeholder="+20…" />
+              </div>
+              <div class="field">
+                <label for="message">Message</label>
+                <textarea
+                  id="message"
+                  name="message"
+                  placeholder="Tell me about the role or product…"
+                  required
+                ></textarea>
+              </div>
+              <button class="btn btn-primary" type="submit">Send message</button>
+              <p class="form-note" id="formStatus">
+                Resume link coming soon — reach me via the form or social links.
+              </p>
+            </form>
+
+            <aside class="contact-aside">
+              <div class="info-block">
+                <h3>Location</h3>
+                <p>10th of Ramadan<br />Al-Sharqia — Egypt</p>
+              </div>
+              <div class="info-block">
+                <h3>Company</h3>
+                <p><a href="https://marn.io" target="_blank" rel="noopener noreferrer">Marn</a></p>
+              </div>
+              <div class="info-block">
+                <h3>Around the web</h3>
+                <div class="socials">
+                  <a
+                    href="https://www.facebook.com/abdallah.omer.908"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="Facebook"
+                  >
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                  <a
+                    href="https://x.com/abdallahomer122"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="X"
+                  >
+                    <svg class="social-x" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                      <path
+                        fill="currentColor"
+                        d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"
+                      />
+                    </svg>
+                  </a>
+                  <a
+                    href="https://linkedin.com/in/abdallahomer12"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="LinkedIn"
+                  >
+                    <i class="fab fa-linkedin-in"></i>
+                  </a>
+                  <a
+                    href="https://wa.me/+201143653605"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="WhatsApp"
+                  >
+                    <i class="fab fa-whatsapp"></i>
+                  </a>
+                  <a
+                    href="tg://resolve?phone=201143653605"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="Telegram"
+                  >
+                    <i class="fab fa-telegram-plane"></i>
+                  </a>
+                </div>
+              </div>
+            </aside>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-inner">
+        <div>Copyright © Abdallah Ahmad Omar <span id="year">2026</span></div>
+        <div>Built for clarity · Shipped with care · Company: <a href="https://marn.io" target="_blank" rel="noopener noreferrer">Marn</a></div>
+      </div>
+    </footer>
+
+    <div class="modal" id="projectModal" role="dialog" aria-modal="true" aria-hidden="true">
+      <div class="modal-backdrop" data-close-modal></div>
+      <div class="modal-dialog">
+        <button class="modal-close" type="button" data-close-modal aria-label="Close">
+          <i class="fas fa-times"></i>
+        </button>
+        <div id="modalBody"></div>
+      </div>
+    </div>
+
+    <script src="js/projects.js"></script>
+    <script src="js/site.js"></script>
+  </body>
+</html>
