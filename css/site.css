@@ -388,31 +388,6 @@ textarea {
   display: block;
 }
 
-.hero-chip {
-  position: absolute;
-  right: -0.2rem;
-  bottom: 1.1rem;
-  background: rgba(8, 18, 32, 0.88);
-  border: 1px solid var(--line);
-  backdrop-filter: blur(10px);
-  border-radius: 1rem;
-  padding: 0.8rem 1rem;
-  max-width: 12.5rem;
-  animation: float-y 4.5s ease-in-out infinite;
-  z-index: 2;
-}
-
-.hero-chip strong {
-  display: block;
-  font-size: 0.92rem;
-  margin-bottom: 0.15rem;
-}
-
-.hero-chip span {
-  color: var(--muted);
-  font-size: 0.8rem;
-}
-
 /* Sections */
 .section {
   padding: 5rem 0;
@@ -986,19 +961,8 @@ body.modal-open {
     transition: none;
   }
 
-  .hero-ring,
-  .hero-chip {
+  .hero-ring {
     animation: none;
-  }
-}
-
-@keyframes float-y {
-  0%,
-  100% {
-    transform: translateY(0);
-  }
-  50% {
-    transform: translateY(-8px);
   }
 }
 
