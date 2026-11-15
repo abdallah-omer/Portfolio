@@ -65,19 +65,19 @@ window.PORTFOLIO_PROJECTS = [
     "category": "Islamic · Library",
     "store": "https://apps.apple.com/eg/app/%D9%85%D8%A4%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%A7%D8%A8%D9%86-%D8%B9%D8%AB%D9%8A%D9%85%D9%8A%D9%86/id1405016983",
     "desc": "A digital encyclopedia of Sheikh Muhammad bin Salih al-Uthaymeen’s writings and lessons. Covers fiqh, Hadith, creed, linguistics, tafsir, and more in one organized library. Access fatwas and scholarly meetings alongside his broader body of work.",
-    "folder": "مؤلفات الشيخ ابن عثيمين",
-    "icon": "img/Icons/مؤلفات الشيخ ابن عثيمين.png",
-    "splash": "img/مؤلفات الشيخ ابن عثيمين/splash.PNG",
+    "folder": "مؤلفات الشيخ ابن عثيمين",
+    "icon": "img/Icons/مؤلفات الشيخ ابن عثيمين.png",
+    "splash": "img/مؤلفات الشيخ ابن عثيمين/splash.PNG",
     "screens": [
-      "img/مؤلفات الشيخ ابن عثيمين/0ad39135-5d90-429c-b0eb-4d4dfdfd227e.png",
-      "img/مؤلفات الشيخ ابن عثيمين/32bc28fa-26b5-4ec9-9778-b415a83bbe34.png",
-      "img/مؤلفات الشيخ ابن عثيمين/49864fa8-4032-4380-9d5e-e863cf3de065.png",
-      "img/مؤلفات الشيخ ابن عثيمين/7cb102ea-8d97-4109-b8be-b546b307e718.png",
-      "img/مؤلفات الشيخ ابن عثيمين/8a1737bc-b4c4-443d-90e2-e3d8b474673d.png",
-      "img/مؤلفات الشيخ ابن عثيمين/9b2103be-c848-427e-90c5-240cfdb3061e.png",
-      "img/مؤلفات الشيخ ابن عثيمين/e550825b-37ee-4980-ad85-63081d0fac28.png",
-      "img/مؤلفات الشيخ ابن عثيمين/e82110ee-9133-47cc-ade5-0e386df66eec.png",
-      "img/مؤلفات الشيخ ابن عثيمين/f301ef50-c7ff-4aeb-833f-079b1b58c02b.png"
+      "img/مؤلفات الشيخ ابن عثيمين/0ad39135-5d90-429c-b0eb-4d4dfdfd227e.png",
+      "img/مؤلفات الشيخ ابن عثيمين/32bc28fa-26b5-4ec9-9778-b415a83bbe34.png",
+      "img/مؤلفات الشيخ ابن عثيمين/49864fa8-4032-4380-9d5e-e863cf3de065.png",
+      "img/مؤلفات الشيخ ابن عثيمين/7cb102ea-8d97-4109-b8be-b546b307e718.png",
+      "img/مؤلفات الشيخ ابن عثيمين/8a1737bc-b4c4-443d-90e2-e3d8b474673d.png",
+      "img/مؤلفات الشيخ ابن عثيمين/9b2103be-c848-427e-90c5-240cfdb3061e.png",
+      "img/مؤلفات الشيخ ابن عثيمين/e550825b-37ee-4980-ad85-63081d0fac28.png",
+      "img/مؤلفات الشيخ ابن عثيمين/e82110ee-9133-47cc-ade5-0e386df66eec.png",
+      "img/مؤلفات الشيخ ابن عثيمين/f301ef50-c7ff-4aeb-833f-079b1b58c02b.png"
     ]
   },
   {
@@ -177,19 +177,19 @@ window.PORTFOLIO_PROJECTS = [
     "category": "Islamic · Quran",
     "store": "https://apps.apple.com/eg/app/%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D8%A7%D9%84%D8%B9%D8%B8%D9%8A%D9%85-great-quran/id792049888",
     "desc": "A trusted Quran experience based on the certified King Fahd Complex edition. Explore 40+ tafsir titles, 30+ recitations, and an error-tolerant search engine. A thematic “Quranic Tree” covers 1,100+ topics for deeper study.",
-    "folder": "القرآن العظيم",
-    "icon": "img/Icons/القرآن العظيم.png",
-    "splash": "img/القرآن العظيم/splash.PNG",
+    "folder": "القرآن العظيم",
+    "icon": "img/Icons/القرآن العظيم.png",
+    "splash": "img/القرآن العظيم/splash.PNG",
     "screens": [
-      "img/القرآن العظيم/IMG_7200.PNG",
-      "img/القرآن العظيم/IMG_7201.PNG",
-      "img/القرآن العظيم/IMG_7202.PNG",
-      "img/القرآن العظيم/IMG_7203.PNG",
-      "img/القرآن العظيم/IMG_7204.PNG",
-      "img/القرآن العظيم/IMG_7205.PNG",
-      "img/القرآن العظيم/IMG_7206.PNG",
-      "img/القرآن العظيم/IMG_7207.PNG",
-      "img/القرآن العظيم/IMG_7208.PNG"
+      "img/القرآن العظيم/IMG_7200.PNG",
+      "img/القرآن العظيم/IMG_7201.PNG",
+      "img/القرآن العظيم/IMG_7202.PNG",
+      "img/القرآن العظيم/IMG_7203.PNG",
+      "img/القرآن العظيم/IMG_7204.PNG",
+      "img/القرآن العظيم/IMG_7205.PNG",
+      "img/القرآن العظيم/IMG_7206.PNG",
+      "img/القرآن العظيم/IMG_7207.PNG",
+      "img/القرآن العظيم/IMG_7208.PNG"
     ]
   },
   {
@@ -223,18 +223,18 @@ window.PORTFOLIO_PROJECTS = [
     "category": "Islamic · Library",
     "store": "https://apps.apple.com/eg/app/%D9%85%D8%A4%D9%84%D9%81%D8%A7%D8%AA-%D8%A7%D9%84%D8%B3%D8%B9%D8%AF%D9%8A/id1264613418",
     "desc": "A complete digital library of Sheikh Abd al-Rahman al-Saadi’s works, including his famous tafsir. Ninety-six books and 20,000+ pages spanning fiqh, ethics, and rulings. Page sync with printed editions supports accurate academic citation.",
-    "folder": "مؤلفات السعدي",
-    "icon": "img/Icons/مؤلفات السعدي.png",
-    "splash": "img/مؤلفات السعدي/splash.PNG",
+    "folder": "مؤلفات السعدي",
+    "icon": "img/Icons/مؤلفات السعدي.png",
+    "splash": "img/مؤلفات السعدي/splash.PNG",
     "screens": [
-      "img/مؤلفات السعدي/IMG_7224.PNG",
-      "img/مؤلفات السعدي/IMG_7225.PNG",
-      "img/مؤلفات السعدي/IMG_7226.PNG",
-      "img/مؤلفات السعدي/IMG_7227.PNG",
-      "img/مؤلفات السعدي/IMG_7228.PNG",
-      "img/مؤلفات السعدي/IMG_7229.PNG",
-      "img/مؤلفات السعدي/IMG_7230.PNG",
-      "img/مؤلفات السعدي/IMG_7231.PNG"
+      "img/مؤلفات السعدي/IMG_7224.PNG",
+      "img/مؤلفات السعدي/IMG_7225.PNG",
+      "img/مؤلفات السعدي/IMG_7226.PNG",
+      "img/مؤلفات السعدي/IMG_7227.PNG",
+      "img/مؤلفات السعدي/IMG_7228.PNG",
+      "img/مؤلفات السعدي/IMG_7229.PNG",
+      "img/مؤلفات السعدي/IMG_7230.PNG",
+      "img/مؤلفات السعدي/IMG_7231.PNG"
     ]
   },
   {
